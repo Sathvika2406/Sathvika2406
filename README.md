@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sathvika2406
-- 👀 Interested in ...learning new things
-- 🌱 currently learning ...python and web development
-- 💞️ 
+- 👀 Interested in learning new things
+- 🌱 currently in my final year of graduation
+-  
 
 <!---
 Sathvika2406/Sathvika2406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
