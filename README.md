@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sathvika2406
-- 👀 Interested in learning new things
-- 🌱 currently in my final year of graduation
+-  Hi, I’m @Sathvika2406
+-  Interested in learning new things
+-  currently working as an intern in HPE
+- Graduated from NIT AndhraPradesh
 -  
 
 <!---
